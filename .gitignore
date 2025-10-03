@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+/.phpunit.cache
+/chatbotaiDBv2.1/node_modules
+/chatbotaiDBv2.1/public/upload_images
+/chatbotaiDBv2.1/storage/
+/storage/*.key
+/chatbotaiDBv2.1/vendor
+.htaccess
+.error_log
+.jquery-3.6.3.js
+.vite.config.js
+/chatbotaiDBv2.1/.env
+/chatbotaiDBv2.1/.env.backup
+.phpunit.result.cache
+push_to_github.py
+push_to_github.bat
+=======
+/.phpunit.cache
+/chatbotaiDBv2.1/node_modules
+/chatbotaiDBv2.1/public/upload_images
+/chatbotaiDBv2.1/storage/
+/storage/*.key
+/chatbotaiDBv2.1/vendor
+.htaccess
+.error_log
+/chatbotaiDBv2.1/.env
+/chatbotaiDBv2.1/.env.backup
+.phpunit.result.cache
+push_to_github.py
+push_to_github.bat
+>>>>>>> 70891f6dfce301e989c0cc2d1268bb99e30d834f
