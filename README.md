@@ -18,7 +18,7 @@ The setup includes security hardening, CORS configuration, CSRF handling, and en
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/flexavior/laravel-chatbot.git
+git clone https://github.com/flexavior/flex-laravel-chatbot.git
 cd laravel-chatbot
 ```
 
